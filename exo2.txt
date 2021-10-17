@@ -1,0 +1,529 @@
+    1  echo''Hello,World''
+    2  echo Hello,World
+    3  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+    4  pwd
+    5  ls
+    6  whoami
+    7  ls
+    8  tree
+    9  cd Downloads
+   10  ls
+   11  cd ..
+   12  mk MyMusic
+   13  cd downloads
+   14  cd..
+   15  rmdir MyMusic
+   16  cd
+   17  cd Downloads/
+   18  ls
+   19  mkdir Music
+   20  ls
+   21  rmdir Music/
+   22  ls
+   23  touch testfile
+   24  ls
+   25  rm testfile
+   26  cd downloads
+   27  cd D1 D2 D3
+   28  ls
+   29  cd downloads
+   30  mkdir D1
+   31  mkdir D2
+   32  mkdir D3
+   33  cd D1
+   34  ls
+   35  cd D2
+   36  touch F1.txt
+   37  touch F2
+   38  touch F3
+   39  ls
+   40  cd D3
+   41  ls
+   42  mkdir D1
+   43  mkdir D2
+   44  mkdir D3
+   45  ls
+   46  students-asn25@asn-25
+   47  cd downloads
+   48  cd
+   49  cd downloads
+   50  cd Downloads
+   51  mkdir D1
+   52  rmdir D1
+   53  ls D1
+   54  rmdir -r D1
+   55  rmdir -rf D1
+   56  rmdir --help 
+   57  rmdir -p D1
+   58  rm -p D1
+   59  rm --help 
+   60  rm -r D1
+   61  ls
+   62  rm -r D2
+   63  LS
+   64  rm -D3
+   65  rm-r D3
+   66  ls
+   67  mk dir D1
+   68  mkdir D1
+   69  mkdir D2
+   70  mkdir D3
+   71  rm-r D3
+   72  rmdir D3
+   73  cd D2
+   74  touch F1.txt
+   75  touch F2.txt
+   76  touch F3.txt
+   77  ls
+   78  cd
+   79  cd D3
+   80  cd Downloads
+   81  mkdir D3
+   82  cd D3
+   83  touch D4
+   84  touch F4
+   85  cd
+   86  cd Downloads/
+   87  ls
+   88  cd D2
+   89  ls
+   90  gedit F1.txt
+   91  ls
+   92  cd
+   93  gedit F9.txt
+   94  pwd
+   95  ls
+   96  cd Downloads
+   97  mkdir lynsay
+   98  ls
+   99  cd Lynsay
+  100  cd lynsay
+  101  mkdir D1
+  102  mkdir D2
+  103  mkdir D3
+  104  ls
+  105  cd D2
+  106  touch F1.txt
+  107  touch F2.txt
+  108  touch f3.txt
+  109  ls
+  110  cd D3
+  111  cd
+  112  cd Downloads
+  113  cd lynsay
+  114  cd D3
+  115  touch D4
+  116  touch F4.txt
+  117  ls
+  118  cd 
+  119  gedit F1.txt
+  120  pwd
+  121  ls
+  122  cd Downloads
+  123  cd aims
+  124  ls
+  125  cd aims
+  126  pwd
+  127  cd Downloads
+  128  cd lynsia
+  129  mkdir lynsay
+  130  cd Downloads
+  131  mkdir tedo
+  132  ls
+  133  cd tedo
+  134  ls
+  135  mkdir leister
+  136  cd leister
+  137  pwd
+  138  cd Downloads
+  139  mkdir aurelle
+  140  cd aurelle
+  141  ls
+  142  mkdir D1
+  143  mkdir D2
+  144  mkdir D3
+  145  ls
+  146  cd D2
+  147  touch F1.txt
+  148  touch F2.txt
+  149  touch F3.txt
+  150  ls
+  151  cd
+  152  cd D3
+  153  cd aurelle
+  154  cd /aurelle
+  155  cd Downloads
+  156  cd aurelle
+  157  cd D3
+  158  mkdir D4
+  159  touch F4
+  160  cd /Downloads/aurelle
+  161  cd /home/students-asn25@asn-25/Downloads/aurelle
+  162  cd
+  163  cd Downloads
+  164  cd D2
+  165  gedit F1.txt
+  166  python3
+  167  mkdir python-try
+  168  cd python-try
+  169  touch first-python.py
+  170  gidit python-try
+  171  gedit python-try
+  172  gedit first-python.py
+  173  python3 first-python.py
+  174  python3
+  175  python3
+  176  git --help.
+  177  mkdir simplestats
+  178  cd simplestats
+  179  ls
+  180  cd
+  181  cd simplestats
+  182  git ini
+  183  git init
+  184  ls
+  185  ls -A
+  186  cd .git
+  187  ls -A
+  188  gedit description
+  189  nano description
+  190  git status
+  191  cd --
+  192  git status
+  193  cd
+  194  cd simplestats
+  195  git status
+  196  touch README
+  197  GIT ADD README.md
+  198  touch README.md
+  199  git add README.md
+  200  git status
+  201  int(1.25)
+  202  python3
+  203  jupiter notebook
+  204  jupyter notebook
+  205  ls
+  206  ls -l
+  207  ls -L
+  208  ls -d
+  209  help ls
+  210  help
+  211  mkdir fichier 1
+  212  mkdir fichier 2
+  213  mkdir fichiers 1
+  214  mkdir fichier1
+  215  mkdir fichier2
+  216  mkdir fichier3
+  217  mkdir fichier4
+  218  mkdir fichier5
+  219  cd
+  220  cd fichier1
+  221  cp fichier2 fichier3 fichier4 fichier5
+  222  cd
+  223  pwd
+  224  ls
+  225  cp-r fichier2 fichier3 fichier4 fichier5 -fichier1
+  226  cp -r fichier2 fichier3 fichier4 fichier5 fichier1
+  227  cd fichier1
+  228  ls
+  229  cd
+  230  cp -i fichier 2 fichier3 fichier4 fichier5 fichier1
+  231  ls /
+  232  ls /home
+  233  ls /ltc
+  234  cd fichier1
+  235  ls /etc
+  236  nano /etc/hostname
+  237  ls /
+  238  cd /bin
+  239  ls
+  240  ls /
+  241  ls /var/
+  242  cd ..
+  243  mkdir fichier6
+  244  mv fichier2 fichie32 fichier4 fichier5 fichier6
+  245  mkdir Fiche6
+  246  mkdir fiche6
+  247  mkdir final6
+  248  cd
+  249  mkdir fichier6
+  250  mv fichier2 fichier3 fichier4 fichier5 fichier6
+  251  cd fichier6
+  252  ls
+  253  python
+  254  jupyter notebook
+  255  sudo apt-get install jupyter-notebook
+  256  mkdir unix
+  257  mkdir unix
+  258  cd unix
+  259  touch foo.txt
+  260  ls
+  261  cd
+  262  touch foo-copy.txt
+  263  cp foo.txt /home/students-asn25@asn-25/foo-copy.txt
+  264  cd unix
+  265  touch foo-copy.txt
+  266  ls
+  267  cp /foo.txt /home/students-asn25@asn-25/foo-copy.txt
+  268  cp foo.txt /home/students-asn25@asn-25/foo-copy.txt 
+  269  cp /foo.txt foo-copy.txt
+  270  cp foo.txt foo-copy.txt
+  271  cd foo-copy.txt
+  272  gedit foo-copy.txt
+  273  mv foo-copy.txt foo2.txt
+  274  mkdir data
+  275  mkdir unix
+  276  cd unix
+  277  touch foo.txt
+  278  touch foo-copy.txt
+  279  cp foo.txt foo-copy.txt
+  280  ls
+  281  mkdir unix
+  282  cd unix
+  283  ls
+  284  touch foo.txt
+  285  cp foo.txt foo-copy.txt
+  286  ls
+  287  mv foo-copy.txt foo2.txt
+  288  ls
+  289  mkdir data 
+  290  cd
+  291  cd unix
+  292  cd data
+  293  mv foo2 data
+  294  foo2.txt data
+  295  mv foo2.txt data
+  296  mv foo2.txt /data
+  297  mv foo2.txt /home/students-asn25@asn-25/data
+  298  cd- -
+  299  cd..
+  300  cd ..
+  301  mv foo2.txt /data
+  302  mv foo2.txt /home/students-asn25@asn-25/data
+  303  mv g foo2.txt /home/students-asn25@asn-25/data
+  304  mv foo2.txt /home/students-asn25@asn-25/unix/data
+  305  cd
+  306  mv foo2.txt /data
+  307  mkdir unix 
+  308  cd unix
+  309  ls
+  310  touch foo.txt
+  311  whoami
+  312  touch foo-copy.txt
+  313  cd ..
+  314  cd unix
+  315  ls
+  316  cp foo.txt foo-copy.txt
+  317  ls
+  318  mv foo-copy.txt foo2.txt
+  319  ls
+  320  mkdir data
+  321  ls
+  322  cd data
+  323  mv foo2.txt/data
+  324  cd ..
+  325  mv foo2.txt data
+  326  ls
+  327  cd data
+  328  ls
+  329  cd ..
+  330  mkdir new
+  331  cd new
+  332  ls
+  333  cd ..
+  334  cd data
+  335  mv new/foo2.txt
+  336  cd ..
+  337  mv new/foo2.txt
+  338  cd data
+  339  mv foo2.txt new
+  340  cd new
+  341  cd ..
+  342  cd new
+  343  ls
+  344  cd ..
+  345  mv data/foo2.txt new
+  346  mkdir unix
+  347  cd unix
+  348  ls
+  349  touch foo.txt
+  350  ls
+  351  touch foo-copy.txt// question (b)
+  352  mkdir unix
+  353  cd unix
+  354  ls
+  355  touch foo.txt
+  356  ls
+  357  touch foo-copy.txt
+  358  ls
+  359  cp foo.txt foo-copy.txt
+  360  ls
+  361  mv foo-copy.txt foo2.txt
+  362  ls
+  363  mkdir data
+  364  cd data
+  365  ls
+  366  mv foo2.txt data
+  367  cd ..
+  368  mv foo2.txt data
+  369  cd data
+  370  ls
+  371  cd ..
+  372  mkdir new
+  373  cd new
+  374  ls
+  375  cd data
+  376  cd ..
+  377  cd data
+  378  mv foo2.txt new
+  379  cd new
+  380  cd ..
+  381  cd new
+  382  ls
+  383  cd ..
+  384  cd data
+  385  ls
+  386  mkdir unix
+  387  cd unix
+  388  ls
+  389  touch foo.txt
+  390  ls
+  391  touch foo-copy.txt
+  392  history 
+  393  mkdir unix
+  394  cd unix
+  395  ls
+  396  touch foo.txt
+  397  ls
+  398  cp foo.txt foo-copy.txt
+  399  ls
+  400  mv foo-copy.txt foo2.txt
+  401  ls
+  402  mkdir data
+  403  cd data
+  404  ls
+  405  cd ..
+  406  mv foo2.txt data
+  407  cd data
+  408  ls
+  409  cd ..
+  410  mkdir new
+  411  cd new
+  412  ls
+  413  cd data
+  414  cd ..
+  415  cd data
+  416  mv foo2.txt new
+  417  cd new
+  418  cd ..
+  419  cd new
+  420  ls
+  421  cd ..
+  422  cd data
+  423  mv foo2.txt /home/students-asn25@asn-25/unix/new
+  424  ls
+  425  cd ..
+  426  mv foo2.txt/data new
+  427  mv data/foo2.txt new
+  428  cd data
+  429  mv foo2.txt new
+  430  mkdir unix
+  431  cd unix
+  432  ls
+  433  touch foo.txt
+  434  ls
+  435  cp foo.txt foo-copy.txt
+  436  ls
+  437  mv foo2-copy.txt foo2.txt 
+  438  mkdir unix 
+  439  cd unix
+  440  touch foo.txt
+  441  ls
+  442  cp foo.txt foo2.txt
+  443  ls
+  444  mv foo-copy.txt foo2.txt 
+  445  mkdir  unix
+  446  cd unix
+  447  ls
+  448  touch foo.txt
+  449  ls
+  450  cp foo.txt foo-copy.txt
+  451  ls
+  452  mv foo-copy.txt foo2.txt
+  453  ls
+  454  mkdir data
+  455  cd data
+  456  ls
+  457  cd
+  458  cd unix
+  459  mv foo2.txt/home/students-asn25@asn-25/unix/data
+  460  mv foo2.txt data
+  461  cd data
+  462  ls
+  463  cd ..
+  464  mkdir new
+  465  cd data
+  466  mv foo2.txt/home/students-asn25@asn-25/unix/data'
+  467  mv foo2.txt/home/students-asn25@asn-25/unix/data/
+  468  mkdir unix
+  469  cd unixx
+  470  mkdir unix
+  471  cd unix
+  472  touch foo.txt
+  473  ls
+  474  cp foo.txt foo-copy.txt
+  475  ls
+  476  mv foo-copy.txt foo2.txt
+  477  ls
+  478  mkdir data
+  479  cd data
+  480  mv foo2.txt data
+  481  cd ..
+  482  mv foo2.txt data
+  483  ls
+  484  cd data
+  485  ls
+  486  cd ..
+  487  mkdir new
+  488  mv data/foo2.txt new
+  489  cd new
+  490  ls
+  491  mv foo2.txt unix
+  492  cd unix
+  493  cd ..
+  494  ls
+  495  mv foo.txt foo-old.txt
+  496  ls
+  497  rm food-old.txt
+  498  rm foo-old.txt
+  499  ls
+  500  rmdir new
+  501  cd ..
+  502  rmdir new
+  503  cd unix
+  504  ls
+  505  rmdir new
+  506  rmdir /new
+  507  cd new
+  508  ls
+  509  rmdir unix
+  510  mv data unix
+  511  mv unix data
+  512  cd ..
+  513  rmdir
+  514  rmdir new
+  515  ls
+  516  cd new
+  517  ls
+  518  ls
+  519  mkdir unix
+  520  cd unix
+  521  ls
+  522  ls -a
+  523  cd unix
+  524  ls
+  525  ls -a
+  526  wc -l
+  527  wc -l exo1.txt
+  528  wc -m exo1.txt
+  529  history >> exo2.txt
