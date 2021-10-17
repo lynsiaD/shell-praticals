@@ -1,0 +1,30 @@
+   
+  521  ls
+  522  mkdir unix
+  523  cd unix
+  524  ls
+  525  touch foo.txt
+  526  ls
+  527  cp foo.txt foo-copy.txt
+  528  ls
+  529  mv foo-copy.txt foo2.txt
+  530  ls
+  531  mkdir data
+  532  mv foo2.txt data
+  533  cd data
+  534  ls
+  535  cd ..
+  536  mkdir new
+  537  mv data/foo2.txt new
+  538  cd new
+  539  ls
+  540  cd ..
+  541  mv new/foo2.txt foo-old.txt
+  542  cd new
+  543  ls
+  544  cd ..
+  545  ls
+  546  rm foo-old.txt
+  547  rmdir new
+  548  ls
+  549  history >> exo1.txt
